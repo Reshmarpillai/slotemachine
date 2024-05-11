@@ -1,0 +1,22 @@
+{
+  "name": "slotgame",
+  "version": "1.0.0",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reshmarpillai/slotemachine.git"
+  },
+  "author": "Reshma R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reshmarpillai/slotemachine/issues"
+  },
+  "homepage": "https://github.com/Reshmarpillai/slotemachine#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
